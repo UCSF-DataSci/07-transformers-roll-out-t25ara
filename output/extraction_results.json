@@ -1,0 +1,36 @@
+[
+  {
+    "diagnosis": "panic disorder",
+    "medications": [],
+    "lab_values": {
+      "thyroid profile": "normal",
+      "ultrasound": "normal",
+      "electrocardiogram": "normal",
+      "blood pressure": "normal"
+    },
+    "confidence": 0.7
+  },
+  {
+    "diagnosis": "anaphylaxis/severe systemic reaction",
+    "medications": [],
+    "lab_values": {},
+    "confidence": 0.8
+  },
+  {
+    "diagnosis": "hypertrophic lichen planus",
+    "medications": [
+      "[REDACTED]"
+    ],
+    "lab_values": {
+      "hematological": "normal",
+      "biochemical": "normal"
+    },
+    "confidence": 0.8
+  },
+  {
+    "diagnosis": "Type II choledochal cyst/double GB/Type VI choledochal cyst",
+    "medications": [],
+    "lab_values": {},
+    "confidence": 0.7
+  }
+]
